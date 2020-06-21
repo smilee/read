@@ -5,4 +5,5 @@
 
 ## July
 1. How JavaScript Works by Douglas Crockford
-2. 함께 자라기 by 김창준
+2. 마케터의 일 by 장인성
+3. 함께 자라기 by 김창준
