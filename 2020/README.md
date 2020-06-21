@@ -2,6 +2,7 @@
 ## June
 - [x] Alive at Work by Daniel M. Cable
 - [ ] Ultralearning by Scott H. Young
+- [ ] Coders at Work (Ch 3) by Peter Seibel
 
 ## July
 - [ ] How JavaScript Works by Douglas Crockford
@@ -10,7 +11,7 @@
 
 ## August
 - [ ] Getting Started with P5.js by Ben Fry, Casey Reas, and Lauren McCarthy
-- [ ] Coders at Work (Ch 3) by Peter Seibel
+- [ ] Powerful by Patty McCord
 - [ ] Discrete Mathematics and its Applications (Ch 1, 2, 5, 6) by Kenneth H. Rosen
 
 ## September
@@ -20,13 +21,14 @@
 
 ## October
 - [ ] Clean Code by Robert C. Martin
-- [ ] Powerful by Patty McCord
+- [ ] Measure What Matters by John Doerr
 - [ ] The Master Algorithm by Pedro Domingos
 
 ## November
-- [ ] Extreme Programming Explained by Kent Beck
-- [ ] Measure What Matters by John Doerr
+- [ ] Test-Driven Development by Example by Kent Beck
+- [ ] Nonviolent Communication by Marshall Rosenberg
+- [ ] Clean Agile by Robert C. Martin
 
 ## December
-- [ ] Clean Agile by Robert C. Martin
-- [ ] Nonviolent Communication by Marshall Rosenberg
+- [ ] ATDD by Example by Markus Gartner
+- [ ] Extreme Programming Explained by Kent Beck
