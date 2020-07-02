@@ -2,21 +2,21 @@
 ## June
 - [x] *Alive at Work* by Daniel M. Cable
 - [ ] 『울트라러닝』 (*Ultralearning*) by Scott H. Young 
-- [ ] *Coders at Work* (Ch 3) by Peter Seibel
 
 ## July
+- [ ] *Coders at Work* (Ch 3) by Peter Seibel
 - [ ] 『자바스크립트는 왜 그 모양일까?』 (*How JavaScript Works*) by Douglas Crockford
 - [ ] 『마케터의 일』 by 장인성
-- [ ] 『함께 자라기』 by 김창준
+- [ ] *Discrete Mathematics and its Applications* (Ch 1, 2) by Kenneth H. Rosen
 
 ## August
 - [ ] *Getting Started with P5.js* by Ben Fry, Casey Reas, and Lauren McCarthy
-- [ ] *Powerful* by Patty McCord
-- [ ] *Discrete Mathematics and its Applications* (Ch 1, 2, 5, 6) by Kenneth H. Rosen
+- [ ] *The Clean Coder* by Robert C. Martin
+- [ ] *Discrete Mathematics and its Applications* (Ch 5, 6) by Kenneth H. Rosen
 
 ## September
-- [ ] *The Clean Coder* by Robert C. Martin
 - [ ] 『실용주의 프로그래머』 (*The Pragmatic Programmer*) by Andy Hunt and Dave Thomas
+- [ ] *Powerful* by Patty McCord
 - [ ] *Discrete Mathematics and its Applications* (Ch 10, 11, 12) by Kenneth H. Rosen
 
 ## October
@@ -32,3 +32,4 @@
 ## December
 - [ ] *ATDD by Example* by Markus Gartner
 - [ ] 『익스트림 프로그래밍』 (*Extreme Programming Explained*) by Kent Beck
+- [ ] 『함께 자라기』 by 김창준
