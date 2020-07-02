@@ -37,4 +37,4 @@ Depending on how one tells the story of what one is doing, behaviors and activit
 * How can one instill purpose in employees?
 
 # Reflections
-To encourage performance, creativity, and engagement at work, activate the seeking system by encouraging employees to promote their best selves, providing an experimental safe zone to encourage learning rather than performance, and helping them experience their work's purpose.
+To encourage performance, creativity, and engagement at work, activate the seeking system by encouraging employees to promote their best selves, providing an experimental safe zone to encourage learning rather than performance, and helping them experience their work's purpose. Although it would be great to feel alive at work, it would not be easy to convince all stakeholders to make it happen.
