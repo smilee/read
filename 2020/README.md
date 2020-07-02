@@ -1,6 +1,6 @@
 # 2020
 ## June
-- [x] *Alive at Work* by Daniel M. Cable
+- [x] [*Alive at Work* by Daniel M. Cable](https://github.com/smilee/read/blob/master/2020/alive-at-work.md)
 - [ ] 『울트라러닝』 (*Ultralearning*) by Scott H. Young 
 
 ## July
