@@ -1,7 +1,7 @@
 # 2020
 ## June
 - [x] [*Alive at Work* by Daniel M. Cable](https://github.com/smilee/read/blob/master/2020/alive-at-work.md)
-- [ ] 『울트라러닝』 (*Ultralearning*) by Scott H. Young 
+- [x] 『울트라러닝』 (*Ultralearning*) by Scott H. Young 
 
 ## July
 - [x] *Coders at Work* (Ch 3) by Peter Seibel
