@@ -4,7 +4,7 @@
 - [x] 『울트라러닝』 (*Ultralearning*) by Scott H. Young 
 
 ## July
-- [x] *Coders at Work* (Ch 3) by Peter Seibel
+- [x] [*Coders at Work* (Ch 3) by Peter Seibel](https://github.com/smilee/read/blob/master/2020/coders-at-work.md)
 - [ ] 『자바스크립트는 왜 그 모양일까?』 (*How JavaScript Works*) by Douglas Crockford
 - [ ] 『마케터의 일』 by 장인성
 - [ ] *Discrete Mathematics and its Applications* (Ch 1, 2) by Kenneth H. Rosen
