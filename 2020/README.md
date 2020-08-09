@@ -5,7 +5,7 @@
 
 ## July
 - [x] [*Coders at Work* (Ch 3) by Peter Seibel](https://github.com/smilee/read/blob/master/2020/coders-at-work.md)
-- [ ] 『마케터의 일』 by 장인성
+- [x] 『마케터의 일』 by 장인성
 
 ## August
 - [ ] *Discrete Mathematics and its Applications* (Ch 1, 2, 5, 6, 10, 11, 12) by Kenneth H. Rosen
