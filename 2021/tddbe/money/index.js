@@ -1,8 +1,8 @@
 function Dollar(amount) {
   this.amount = amount;
 
-  this.times = () => {
-    this.amount = 10;
+  this.times = (multiplier) => {
+    this.amount *= multiplier;
   };
 }
 
