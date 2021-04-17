@@ -9,8 +9,8 @@
 [ ] Dollar/Franc 중복
 [ ] **공용 equals**
 [ ] 공용 times
-[ ] Franc과 Dollar 비교하기
-[ ] 통화?
+[ ] **Franc과 Dollar 비교하기**
+[ ] **currency**
 [ ] testFrancMultiplication 제거
 [ ] $5 + $5 = $10
 [ ] $5 + $5에서 Money 반환하기
