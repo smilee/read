@@ -1,5 +1,6 @@
-function Dollar(amount) {
+function Money(amount, currency) {
   this.amount = amount;
+  this.currency = currency;
 
   this.times = (multiplier) => {
     this.amount *= multiplier;
@@ -8,24 +9,4 @@ function Dollar(amount) {
   this.equals = (object) => this === object;
 }
 
-function Franc(amount) {
-  this.amount = amount;
-
-  this.times = (multiplier) => {
-    this.amount *= multiplier;
-  };
-
-  this.equals = (object) => this === object;
-}
-
-function Money(amount) {
-  this.amount = amount;
-
-  this.times = (multiplier) => {
-    this.amount *= multiplier;
-  };
-
-  this.equals = (object) => this === object;
-}
-
-export { Dollar, Franc, Money };
+export { Money };
