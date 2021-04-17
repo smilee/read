@@ -1,4 +1,4 @@
-import { Money, Bank } from './index';
+import { Money, Bank, Wallet } from './index';
 
 describe('Money', () => {
   context('when it is created', () => {
@@ -44,7 +44,23 @@ describe('Money', () => {
       const inDollars = bank.reduce(franc, 'USD');
       const dollar = new Money(3, 'USD');
 
-      expect(JSON.stringify(inDollars)).toBe(JSON.stringify(dollar));
+      expect(inDollars.toString()).toBe(dollar.toString());
+    });
+  });
+
+  context('when Money objects are added to a Wallet object', () => {
+    it('reduces the contents into a target currency', () => {
+      const franc = new Money(6, 'CHF');
+      const dollar = new Money(2, 'USD');
+      const bank = new Bank();
+      const wallet = new Wallet();
+
+      wallet.add(franc);
+      wallet.add(dollar);
+      const five = new Money(5, 'USD');
+      const inDollar = wallet.reduce(bank, 'USD');
+
+      expect(inDollar.toString()).toEqual(five.toString());
     });
   });
 });
