@@ -1,4 +1,4 @@
-import { Money } from './index';
+import { Money, Bank } from './index';
 
 describe('Money', () => {
   context('when it is created', () => {
@@ -34,6 +34,17 @@ describe('Money', () => {
       const sum = five.plus(five);
 
       expect(sum.amount).toBe(10);
+    });
+  });
+
+  context('when Money object is given to the bank with a target currency', () => {
+    it('is reduced into the target currency', () => {
+      const franc = new Money(6, 'CHF');
+      const bank = new Bank();
+      const inDollars = bank.reduce(franc, 'USD');
+      const dollar = new Money(3, 'USD');
+
+      expect(JSON.stringify(inDollars)).toBe(JSON.stringify(dollar));
     });
   });
 });
