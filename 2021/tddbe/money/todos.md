@@ -13,8 +13,8 @@
 [x] currency
 [x] $5 + $5 = $10
 [x] $5 + $5에서 Money 반환하기
-[ ] **Bank.reduce(Money)**
-[ ] Money에 대한 통화 변환을 수행하는 Reduce
-[ ] Reduce(Bank, String)
+[x] Bank.reduce(Money)
+[ ] **Money에 대한 통화 변환을 수행하는 Reduce**
+[ ] **Reduce(Bank, String)**
 [ ] Sum.plus
 [ ] Expression.times
