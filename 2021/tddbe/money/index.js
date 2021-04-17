@@ -7,6 +7,8 @@ function Money(amount, currency) {
   };
 
   this.equals = (object) => this === object;
+
+  this.plus = (addend) => new Money(this.amount + addend.amount, 'USD');
 }
 
 export { Money };
