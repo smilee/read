@@ -1,5 +1,5 @@
-function Dollar() {
-  this.amount = 5;
+function Dollar(amount) {
+  this.amount = amount;
 }
 
 export { Dollar };
