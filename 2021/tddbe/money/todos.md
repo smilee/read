@@ -1,12 +1,11 @@
 [ ] $5 + 10CHF = $10(환율이 2:1일 경우)
-[ ] **$5 x 2 = $10**
+[x] $5 x 2 = $10
 [x] amount 만들기
-[ ] Dollar 부작용(side effect)?
-[ ] equals()
+[x] equals()
 [ ] hashCode()
 [ ] Equal null
 [ ] Equal object
-[ ] 5CHF x 2 = 10CHF
+[ ] **5CHF x 2 = 10CHF**
 [ ] Dollar/Franc 중복
 [ ] 공용 equals
 [ ] 공용 times
