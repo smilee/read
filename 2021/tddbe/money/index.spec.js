@@ -27,4 +27,13 @@ describe('Money', () => {
       expect(dollar.equals(franc)).toBe(false);
     });
   });
+
+  context('when two Money objects are added to each other', () => {
+    it('returns the sum', () => {
+      const five = new Money(5, 'USD');
+      const sum = five.plus(five);
+
+      expect(sum.amount).toBe(10);
+    });
+  });
 });
