@@ -18,4 +18,14 @@ function Franc(amount) {
   this.equals = (object) => this === object;
 }
 
-export { Dollar, Franc };
+function Money(amount) {
+  this.amount = amount;
+
+  this.times = (multiplier) => {
+    this.amount *= multiplier;
+  };
+
+  this.equals = (object) => this === object;
+}
+
+export { Dollar, Franc, Money };
