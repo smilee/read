@@ -6,15 +6,14 @@
 [ ] Equal null
 [ ] Equal object
 [x] 5CHF x 2 = 10CHF
-[ ] Dollar/Franc 중복
-[ ] **공용 equals**
+[x] Dollar/Franc 중복
+[x] 공용 equals
 [ ] 공용 times
-[ ] **Franc과 Dollar 비교하기**
-[ ] **currency**
-[ ] testFrancMultiplication 제거
-[ ] $5 + $5 = $10
+[x] Franc과 Dollar 비교하기
+[x] currency
+[ ] **$5 + $5 = $10**
 [ ] $5 + $5에서 Money 반환하기
-[ ] Bank.reduct(Money)
+[ ] Bank.reduce(Money)
 [ ] Money에 대한 통화 변환을 수행하는 Reduce
 [ ] Reduce(Bank, String)
 [ ] Sum.plus
